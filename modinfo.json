@@ -1,0 +1,22 @@
+{
+  "context": "client",
+  "identifier": "ca.pa.metapod.colonel_combat_grouping_mod",
+  "display_name": "Combat Colonel selection mod",
+  "description": "Groups Colonel's with the other combat units, where they can be truly useful.",
+  "author": "cascadian",
+  "version": "1.0.0",
+  "build": "89755",
+  "date": "2016/03/24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/combat-colonel-selection-mod.71556/",
+  "icon": "http://i.imgur.com/DIp94wp.png",
+  "category": [
+	  "in-game",
+	  "shader",
+	  "colours",
+	  "explosion"
+	  "selection"
+	  "filter"
+    ],
+  "priority": 100
+}
